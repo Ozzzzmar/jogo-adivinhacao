@@ -1,0 +1,1 @@
+um jogo de adivinhação que gerará um número aleatório de 100 a 200.
